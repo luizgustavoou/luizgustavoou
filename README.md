@@ -1,8 +1,8 @@
-### Olá! Eu sou o Luiz Gustavo
-
+### Hello! I'm Luiz Gustavo
+- 🧑🏻‍💻 Fullstack developer
 - 🔭 ...
 - 🌱  ...
-- 📖 Cursando Bacharelado em Tecnologia da Informação (BTI) no Instituto Metrópole Digital UFRN, Técnico em Informática pelo IFRN Campus Parnamirim.
+- 📖 Studying a Bachelor's degree in Information Technology (BTI) at Instituto Metrópole Digital UFRN, Computer Technician at IFRN Campus Parnamirim.
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
