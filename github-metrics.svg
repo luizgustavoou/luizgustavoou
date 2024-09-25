@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -214,17 +214,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.71mb of code in 1736 edited files across 210 commits over last 14 days</small>
+                <small>estimation from 2.83mb of code in 1724 edited files across 214 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.70154198099243" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.70154198099243" y="0" width="2.025122010241796" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="457.7266639912342" y="0" width="1.0350316317282242" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.7616956229624" y="0" width="0.8442041565398541" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.60589977950224" y="0" width="0.39410022049772064" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.5064618970896" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.5064618970896" y="0" width="10.333550443934044" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="456.8400123410236" y="0" width="2.0081587878372353" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="458.8481711288608" y="0" width="0.7610297898597922" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.60920091872066" y="0" width="0.39079908127935276" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -235,15 +235,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PLpgSQL
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f7931e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Handlebars
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PLpgSQL
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -261,7 +261,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2024, 00:58:18  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Sept 2024, 00:58:47  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
