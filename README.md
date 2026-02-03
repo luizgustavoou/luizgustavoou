@@ -1,6 +1,6 @@
 ### Hello! I'm Luiz Gustavo
 - 🧑🏻‍💻 Fullstack developer
-- 🌱  Studying Ansible
+- 🌱  Studying k8s
 - 📖 Studying a Bachelor's degree in Information Technology (BTI) at Instituto Metrópole Digital UFRN, Computer Technician at IFRN Campus Parnamirim.
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
